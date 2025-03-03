@@ -1,0 +1,202 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/docs",
+          "tagsPath": "/docs/tags",
+          "editUrl": "https://github.com/your-org/crypto-price-tracker-docs/edit/main/docs",
+          "editUrlLocalized": "https://github.com/your-org/crypto-price-tracker-docs/edit/main/i18n/en/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "C:\\Users\\MTSS\\Desktop\\New folder\\docs\\sidebars.js",
+          "contentPath": "C:\\Users\\MTSS\\Desktop\\New folder\\docs\\docs",
+          "contentPathLocalized": "C:\\Users\\MTSS\\Desktop\\New folder\\docs\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "docs": [
+            {
+              "unversionedId": "api-integration",
+              "id": "api-integration",
+              "title": "API Integration Details",
+              "description": "The Crypto Price Tracker fetches real-time data from the CoinGecko API, a popular and reliable service for cryptocurrency information.",
+              "source": "@site/docs/api-integration.md",
+              "sourceDirName": ".",
+              "slug": "/api-integration",
+              "permalink": "/docs/api-integration",
+              "draft": false,
+              "editUrl": "https://github.com/your-org/crypto-price-tracker-docs/edit/main/docs/api-integration.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "api-integration",
+                "title": "API Integration Details"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "Project Setup Guide",
+                "permalink": "/docs/setup"
+              },
+              "next": {
+                "title": "State Management Explanation",
+                "permalink": "/docs/state-management"
+              }
+            },
+            {
+              "unversionedId": "challenges-solutions",
+              "id": "challenges-solutions",
+              "title": "Challenges & Solutions",
+              "description": "Every project encounters hurdles. Here are some challenges we faced while building the Crypto Price Tracker and how we solved them.",
+              "source": "@site/docs/challenges-solutions.md",
+              "sourceDirName": ".",
+              "slug": "/challenges-solutions",
+              "permalink": "/docs/challenges-solutions",
+              "draft": false,
+              "editUrl": "https://github.com/your-org/crypto-price-tracker-docs/edit/main/docs/challenges-solutions.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "challenges-solutions",
+                "title": "Challenges & Solutions"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "State Management Explanation",
+                "permalink": "/docs/state-management"
+              }
+            },
+            {
+              "unversionedId": "intro",
+              "id": "intro",
+              "title": "Introduction",
+              "description": "Welcome to the Crypto Price Tracker documentation! This project is a simple web application built using Next.js that displays live cryptocurrency prices, and it includes developer documentation powered by Docusaurus.",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/docs/intro",
+              "draft": false,
+              "editUrl": "https://github.com/your-org/crypto-price-tracker-docs/edit/main/docs/intro.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "intro",
+                "title": "Introduction"
+              },
+              "sidebar": "docs",
+              "next": {
+                "title": "Project Setup Guide",
+                "permalink": "/docs/setup"
+              }
+            },
+            {
+              "unversionedId": "setup",
+              "id": "setup",
+              "title": "Project Setup Guide",
+              "description": "This guide walks you through installing and running both the Next.js web application and the Docusaurus documentation on your local machine.",
+              "source": "@site/docs/setup.md",
+              "sourceDirName": ".",
+              "slug": "/setup",
+              "permalink": "/docs/setup",
+              "draft": false,
+              "editUrl": "https://github.com/your-org/crypto-price-tracker-docs/edit/main/docs/setup.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "setup",
+                "title": "Project Setup Guide"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "Introduction",
+                "permalink": "/docs/intro"
+              },
+              "next": {
+                "title": "API Integration Details",
+                "permalink": "/docs/api-integration"
+              }
+            },
+            {
+              "unversionedId": "state-management",
+              "id": "state-management",
+              "title": "State Management Explanation",
+              "description": "This project manages data flow and state primarily through React Query, a library focused on simplifying server-state management. Here’s why we chose it and how it works in practice.",
+              "source": "@site/docs/state-management.md",
+              "sourceDirName": ".",
+              "slug": "/state-management",
+              "permalink": "/docs/state-management",
+              "draft": false,
+              "editUrl": "https://github.com/your-org/crypto-price-tracker-docs/edit/main/docs/state-management.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "state-management",
+                "title": "State Management Explanation"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "API Integration Details",
+                "permalink": "/docs/api-integration"
+              },
+              "next": {
+                "title": "Challenges & Solutions",
+                "permalink": "/docs/challenges-solutions"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "docs": [
+              {
+                "type": "doc",
+                "id": "intro"
+              },
+              {
+                "type": "doc",
+                "id": "setup"
+              },
+              {
+                "type": "doc",
+                "id": "api-integration"
+              },
+              {
+                "type": "doc",
+                "id": "state-management"
+              },
+              {
+                "type": "doc",
+                "id": "challenges-solutions"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [],
+      "blogListPaginated": [],
+      "blogTags": {},
+      "blogTagsListPath": "/blog/tags",
+      "blogTagsPaginated": []
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

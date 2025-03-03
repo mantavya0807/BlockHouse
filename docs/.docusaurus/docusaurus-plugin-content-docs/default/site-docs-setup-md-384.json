@@ -1,0 +1,27 @@
+{
+  "unversionedId": "setup",
+  "id": "setup",
+  "title": "Project Setup Guide",
+  "description": "This guide walks you through installing and running both the Next.js web application and the Docusaurus documentation on your local machine.",
+  "source": "@site/docs/setup.md",
+  "sourceDirName": ".",
+  "slug": "/setup",
+  "permalink": "/docs/setup",
+  "draft": false,
+  "editUrl": "https://github.com/your-org/crypto-price-tracker-docs/edit/main/docs/setup.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "setup",
+    "title": "Project Setup Guide"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/intro"
+  },
+  "next": {
+    "title": "API Integration Details",
+    "permalink": "/docs/api-integration"
+  }
+}

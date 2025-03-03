@@ -1,0 +1,79 @@
+{
+  "/__docusaurus/debug-8ef": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-8-a-2-352"
+    }
+  },
+  "/__docusaurus/debug/config-349": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-8-a-2-352"
+    }
+  },
+  "/__docusaurus/debug/content-5e1": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-8-a-2-352"
+    },
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  },
+  "/__docusaurus/debug/globalData-f7a": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-8-a-2-352"
+    }
+  },
+  "/__docusaurus/debug/metadata-f5d": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-8-a-2-352"
+    }
+  },
+  "/__docusaurus/debug/registry-8a9": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-8-a-2-352"
+    }
+  },
+  "/__docusaurus/debug/routes-559": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-8-a-2-352"
+    }
+  },
+  "/docs-4b3": {
+    "__comp": "__comp---theme-doc-page-1-be-9be",
+    "__context": {
+      "plugin": "plugin---docs-3-b-9-4d4"
+    },
+    "versionMetadata": "versionMetadata---docs-935-398"
+  },
+  "/docs/api-integration-6c1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-api-integration-0-fb-8e8"
+  },
+  "/docs/challenges-solutions-d7f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-challenges-solutionsdf-7-268"
+  },
+  "/docs/intro-6e9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intro-0-e-3-be1"
+  },
+  "/docs/setup-5ab": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-setup-384-edd"
+  },
+  "/docs/state-management-ee6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-state-management-034-5c4"
+  },
+  "/-6f2": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---3-f-5-2e4"
+    },
+    "config": "config---5-e-9-4f3"
+  }
+}

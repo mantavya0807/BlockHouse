@@ -1,0 +1,27 @@
+{
+  "unversionedId": "state-management",
+  "id": "state-management",
+  "title": "State Management Explanation",
+  "description": "This project manages data flow and state primarily through React Query, a library focused on simplifying server-state management. Here’s why we chose it and how it works in practice.",
+  "source": "@site/docs/state-management.md",
+  "sourceDirName": ".",
+  "slug": "/state-management",
+  "permalink": "/docs/state-management",
+  "draft": false,
+  "editUrl": "https://github.com/your-org/crypto-price-tracker-docs/edit/main/docs/state-management.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "state-management",
+    "title": "State Management Explanation"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "API Integration Details",
+    "permalink": "/docs/api-integration"
+  },
+  "next": {
+    "title": "Challenges & Solutions",
+    "permalink": "/docs/challenges-solutions"
+  }
+}

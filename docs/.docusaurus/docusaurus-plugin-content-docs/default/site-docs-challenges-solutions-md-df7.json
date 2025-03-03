@@ -1,0 +1,23 @@
+{
+  "unversionedId": "challenges-solutions",
+  "id": "challenges-solutions",
+  "title": "Challenges & Solutions",
+  "description": "Every project encounters hurdles. Here are some challenges we faced while building the Crypto Price Tracker and how we solved them.",
+  "source": "@site/docs/challenges-solutions.md",
+  "sourceDirName": ".",
+  "slug": "/challenges-solutions",
+  "permalink": "/docs/challenges-solutions",
+  "draft": false,
+  "editUrl": "https://github.com/your-org/crypto-price-tracker-docs/edit/main/docs/challenges-solutions.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "challenges-solutions",
+    "title": "Challenges & Solutions"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "State Management Explanation",
+    "permalink": "/docs/state-management"
+  }
+}

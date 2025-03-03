@@ -1,0 +1,76 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "docs": [
+      {
+        "type": "link",
+        "label": "Introduction",
+        "href": "/docs/intro",
+        "docId": "intro"
+      },
+      {
+        "type": "link",
+        "label": "Project Setup Guide",
+        "href": "/docs/setup",
+        "docId": "setup"
+      },
+      {
+        "type": "link",
+        "label": "API Integration Details",
+        "href": "/docs/api-integration",
+        "docId": "api-integration"
+      },
+      {
+        "type": "link",
+        "label": "State Management Explanation",
+        "href": "/docs/state-management",
+        "docId": "state-management"
+      },
+      {
+        "type": "link",
+        "label": "Challenges & Solutions",
+        "href": "/docs/challenges-solutions",
+        "docId": "challenges-solutions"
+      }
+    ]
+  },
+  "docs": {
+    "api-integration": {
+      "id": "api-integration",
+      "title": "API Integration Details",
+      "description": "The Crypto Price Tracker fetches real-time data from the CoinGecko API, a popular and reliable service for cryptocurrency information.",
+      "sidebar": "docs"
+    },
+    "challenges-solutions": {
+      "id": "challenges-solutions",
+      "title": "Challenges & Solutions",
+      "description": "Every project encounters hurdles. Here are some challenges we faced while building the Crypto Price Tracker and how we solved them.",
+      "sidebar": "docs"
+    },
+    "intro": {
+      "id": "intro",
+      "title": "Introduction",
+      "description": "Welcome to the Crypto Price Tracker documentation! This project is a simple web application built using Next.js that displays live cryptocurrency prices, and it includes developer documentation powered by Docusaurus.",
+      "sidebar": "docs"
+    },
+    "setup": {
+      "id": "setup",
+      "title": "Project Setup Guide",
+      "description": "This guide walks you through installing and running both the Next.js web application and the Docusaurus documentation on your local machine.",
+      "sidebar": "docs"
+    },
+    "state-management": {
+      "id": "state-management",
+      "title": "State Management Explanation",
+      "description": "This project manages data flow and state primarily through React Query, a library focused on simplifying server-state management. Here’s why we chose it and how it works in practice.",
+      "sidebar": "docs"
+    }
+  }
+}
