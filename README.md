@@ -35,7 +35,7 @@ This structure ensures that the **Next.js web app** and **Docusaurus documentati
 
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/crypto-price-tracker.git
+git clone https://github.com/yourusername/BlockHouse.git
 ```
 
 ---
